@@ -1,34 +1,26 @@
-# Informatica
-Atividades com foco em introdução no 
-programa Excel,Power bi, python realizadas na disciplina 
-de informática do CSP em logística
+# Inform-tica-
+Atividades realizadas na disciplina de informática do cst em logística 
+## apresentação em equipe utilizando software de disgner gráfico
+Trabalho executado via canva: Animação e figuras 
+<img width="1087" height="611" alt="image" src="https://github.com/user-attachments/assets/e6cd9b51-9271-4bc2-a2b0-5b2fed4f2af0" />
+https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit?utm_content=DAHBKYOIv7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-# atividade teste
-gráfico da Prefeitura de São José dos Campos
-[📂 Abrir Planilha](https://docs.google.com/spreadsheets/d/1qx-28JSFd4pCIbSEB9wxCx63hEhNIQjt/edit?usp=drivesdk)
-![Print do Projeto](Screenshot_20260416-213754.GitHub.png)
+##aula de excel, SOMASE e Grafico Dinamicos
+[despesa_funcao1.xlsx](https://github.com/user-attachments/files/25957136/despesa_funcao1.xlsx)
+<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/56b7e3fb-5886-444c-993c-1455223c8730" />
 
+##aula de excel usando ensinamentos SOMASE CONT.SE - (no dia não estavamos conseguindo colar o arquivo excel e nem a foto, a professora foi avisada)
+ 
+##Atividade realizada em sala de aula para calcular receita
+https://docs.google.com/spreadsheets/d/1PNvHHD63pxnQ12kNAmtl-8wnrjaMrVTX/edit?usp=drive_link&rtpof=true&sd=true
+<img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/98699985-72d7-497d-9844-2154cc30aa09" />
 
+## realizar tres perguntas sobre transporte
+https://docs.google.com/spreadsheets/d/1QdfjPzBjhePxXcG545OKwBRNxbs7EjnZ/edit?usp=drive_link&ouid=112139667241940294854&rtpof=true&sd=true
+<img width="2363" height="716" alt="image" src="https://github.com/user-attachments/assets/f8b313eb-1e94-4b95-b6ed-03c536941854" />
 
-
-#  1.1 Atividade realizada com excel(planilha fornecedores)
-
-
-[Acessar planilha fornecedores de fevereiro](https://1drv.ms/x/c/1538405D4ACAB88C/IQCneSBzAMbISa5nrB5epFoQAUYQrj1vUdZoY4_9yD8L-aU?e=ls4Jgb)
-![foto](Screenshot_20260406-195530.Chrome.png)
-
-# 1.2 Atividade realizada com excel(planilha receita)
-[Acessar planilha receita](https://1drv.ms/x/c/1538405D4ACAB88C/IQAj0IKZRQ9ySbZ1RYudro3FAfgea1tW2RnP2n447yoZcKY?e=bHwUWM)
-![foto](Screenshot_20260406-220842.Excel.png)
-
-# atividade 2 Gráfico de Multas Pagas do Governo do Estado de São Paulo - 
-[📊 Abrir Planilha](https://docs.google.com/spreadsheets/d/14oImYYvsgN--XG6L-6UVJcQLgyW57K4K/edit?usp=drivesdk)
-![Print do Projeto](Screenshot_20260416-205650.GitHub.png)
-
-
-# atividade 3
-escolher um tema dos dados abertos de são Paulo e fazer 5 perguntas dos dados escolhidos no Excel
-https://drive.google.com/drive/folders/1HaXAqX1X6YvJXZ9ixiyNcUmN3PSrA3V6
+##Realização de um curso de 20h sobre python
+<img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/d1c78f7f-b6ce-4f4c-907a-8878538c498a" />
 
 
 
