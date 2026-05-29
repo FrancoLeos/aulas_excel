@@ -31,16 +31,6 @@ escolher um tema dos dados abertos de são Paulo e fazer 5 perguntas dos dados e
 https://drive.google.com/drive/folders/1HaXAqX1X6YvJXZ9ixiyNcUmN3PSrA3V6
 
 
-# atividade 4
-realizar um dos cursos oferecido pela professora
-
-![foto](Screenshot_20260413-215043.Chrome.png)
-
-
-
-# atividade 5
-realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
-![Print do Projeto](Screenshot_20260418-123700.Chrome.png)
 
 # atividade 7
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
