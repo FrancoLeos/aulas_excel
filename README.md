@@ -19,7 +19,8 @@ https://docs.google.com/spreadsheets/d/1PNvHHD63pxnQ12kNAmtl-8wnrjaMrVTX/edit?us
 
 ## realizar tres perguntas sobre transporte
 https://docs.google.com/spreadsheets/d/1QdfjPzBjhePxXcG545OKwBRNxbs7EjnZ/edit?usp=drive_link&ouid=112139667241940294854&rtpof=true&sd=true
-<img width="2363" height="716" alt="image" src="https://github.com/user-attachments/assets/f8b313eb-1e94-4b95-b6ed-03c536941854" />
+<img width="1080" height="464" alt="image" src="https://github.com/user-attachments/assets/a97671b9-941c-4362-8b26-3531dbbd495b" />
+
 
 ##Realização de um curso de 20h sobre python
 <img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/d1c78f7f-b6ce-4f4c-907a-8878538c498a" />
