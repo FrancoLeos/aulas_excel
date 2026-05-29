@@ -8,7 +8,8 @@ https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit?utm_content
 
 ##aula de excel, SOMASE e Grafico Dinamicos
 [despesa_funcao1.xlsx](https://github.com/user-attachments/files/25957136/despesa_funcao1.xlsx)
-<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/56b7e3fb-5886-444c-993c-1455223c8730" />
+<img width="1495" height="419" alt="image" src="https://github.com/user-attachments/assets/4ba7c38b-d796-47d6-b215-a25e623cbaf2" />
+
 
 ##aula de excel usando ensinamentos SOMASE CONT.SE - (no dia não estavamos conseguindo colar o arquivo excel e nem a foto, a professora foi avisada)
  
