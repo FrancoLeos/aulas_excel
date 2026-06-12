@@ -59,7 +59,9 @@ planilha de gráfico linear, sobre a qualidade do vinho, com Excel e Google cola
 [Abrir no Google Colab](https://colab.research.google.com/drive/1W6sz7oED0BQljXauWBz4vigeiXT92OZT?usp=sharing)
 ![Screenshot](Screenshot_20260515-203845.Chrome.png)
 
-
+# Aula 12 - deshboard
+Criação de um dashboard no power bi com dados de consumo de cerveja x consumo de sorvete
+<img width="1335" height="746" alt="image" src="https://github.com/user-attachments/assets/e3542753-3786-4397-8f70-dad27e1946e5" />
 
 
 
